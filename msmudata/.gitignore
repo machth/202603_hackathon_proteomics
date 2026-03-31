@@ -1,7 +1,0 @@
-# --- Project-specific (git-ignored by design) ---
-data/*
-*.h5ad
-*.json
-node_modules/
-LICENSE
-.DS_Store
